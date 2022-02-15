@@ -22,6 +22,7 @@ has_toc: false
 
 * <a href="https://drive.google.com/file/d/16GPoHqA8JtieWW89jPWemwNk0cah6WHm/view" target="_blank">Foto del Orador</a>
 * <a href="https://docs.google.com/presentation/d/1nrLVhk99QpPQKGLaGj0aBlurOgXjmgjNE5TBiopQkqg/edit#slide=id.p" target="_blank">Slides</a>
+* <a href="https://medium.com/eryxcoop/dise%C3%B1o-ux-para-potenciar-el-software-8e855d196c0b" target="_blank">Artículo de Medium</a>
 
 ## Descripción corta:
 Charla sobre prácticas y herramientas orientadas a desarrolladores que ayudan no solo a la "experiencia de usuario", si no también al desarrollo de un producto digital.

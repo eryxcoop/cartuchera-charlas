@@ -23,6 +23,7 @@ has_toc: false
 
 * <a href="https://drive.google.com/file/d/12bH4mxnGm3vUwlEs2IVHJbJ6N4QDLH4I/view" target="_blank">Foto del Orador</a>
 * <a href="https://docs.google.com/presentation/d/1ZPj0O96rpAcHmYT3XFUDh0yB8gV1B0nxAEmyBV1XblY/edit#slide=id.p" target="_blank">Slides</a>
+* <a href="https://medium.com/eryxcoop/convivencia-entre-objetos-y-experimentos-cient%C3%ADficos-4f7336eed687" target="_blank">Artículo de Medium</a>
 
 ## Descripción corta:
 Charla sobre la implementación de un sistema de experimentos para resolver un problema de pricing de un e-commerce británico. ¿Experimentos rápidos o experimentos bien modelados? ¿hay que elegir? De yapa, contamos un poco sobre PyGMO, una herramienta que ayuda a resolver problemas de optimización de varios tipos distintos.

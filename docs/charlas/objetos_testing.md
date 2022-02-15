@@ -21,6 +21,7 @@ has_toc: false
 ## Links
 
 * <a href="https://docs.google.com/presentation/d/1dp37nrFOXWQibfI2Q2tFooIHfSSlMrFpKs087mP-fdQ/edit#slide=id.g632bd08e11_0_64" target="_blank">Slides</a>
+* <a href="https://medium.com/eryxcoop/no-dejemos-nuestros-tests-tirados-5635080a0da1" target="_blank">Artículo de Medium</a>
 
 ## Bio:
 Estoy haciendo mi tesis para la carrera de Computación en FCEN-UBA. Además soy desarrolladora/e de software, y he trabajado en análisis y visualización de datos de movilidad humana. Me gusta repensar la forma en la que programamos y encontrar formas de hacer a los sistemas más declarativos y expresivos. Fuera del trabajo, me gusta dibujar historietas y hacer música.
