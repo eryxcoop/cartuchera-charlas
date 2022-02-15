@@ -16,7 +16,7 @@ has_toc: false
 
 ## Presentación
 
-<iframe width="800px" height="480" src="https://www.youtube.com/embed/Vk7Sx37jMH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* <a href="https://drive.google.com/file/d/1StyV2hdqNODwXncv1iNtLNLvdTokzyDx/view" target="_blank">Video</a>
 
 ## Links
 
