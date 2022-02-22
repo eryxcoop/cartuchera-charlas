@@ -18,6 +18,11 @@ has_toc: false
 
 <iframe width="800px" height="480" src="https://www.youtube.com/embed/Vk7Sx37jMH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## Flyer
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fl4G3gnwjYflmWUZZfLU43W%2FUntitled%3Fnode-id%3D2%253A31" allowfullscreen></iframe>
+
 ## Links
 
 * <a href="https://drive.google.com/file/d/16GPoHqA8JtieWW89jPWemwNk0cah6WHm/view" target="_blank">Foto del Orador</a>
